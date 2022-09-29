@@ -19,8 +19,11 @@ components=>home=>insideCard=>insideCardContainer.tsx
 
 план:
 
+
 добавить возможность регистрации/авторизации пользователя .
+
 оставлять самому посты .
+
 доработать дизайн :)
 
 ![image](https://user-images.githubusercontent.com/97777490/193045675-0ac2342d-a1ac-4ae0-9bac-5e681ec0c8bc.png)
