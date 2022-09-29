@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.readLater{
+    margin-bottom: 20px;
+}
+a{
+    text-decoration: none;
+    color: #333;
+}
+li{
+    list-style: none;
+    margin-left: 10px;
+    font-size: 25px;
+    font-style: italic;
+    cursor: pointer;
+}
+
+li:hover{
+    color: green;
+    transition: .3s;
+    cursor: pointer;
+}
+ul{
+    display: flex;
+    justify-content: center
+}
+body{
+    background-color: #333;
+}
+
+.wrapper{
+    margin: 40px;
+    background-color: #fff;
+    border-radius:10px ;
+}
+.header__logo{
+    width: 100px;
+}
+
+.header__burger{
+    cursor: pointer;
+   
+    float: right;
+    margin: 10px 40px 0 0;
+    position: relative;
+}
+.header__burgerItem{
+    
+    width: 25px;
+    height: 3px;
+    background-color: #333;
+    margin-top: 5px;
+}
+.header__burger-close{
+    position: absolute;
+    opacity: 0;
+    
+}
+ 
+
+.header__PopUp-active{
+    -webkit-box-shadow: 0px 1px 27px 0px rgba(34, 60, 80, 0.2);
+-moz-box-shadow: 0px 1px 27px 0px rgba(34, 60, 80, 0.2);
+box-shadow: 0px 1px 27px 0px rgba(34, 60, 80, 0.2);
+width: 120px;
+height: 150px;
+display: flex;
+float: right;
+flex-direction: column;
+align-items: center;
+position: absolute;
+top: 45px;
+right: 50px;
+
+}
+.header__PopUp{
+    display: none;
+}
+.header__profileImg{
+    margin-top: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: #333;
+    border-radius: 50%;
+}
+.header__userName{
+    margin-top: 10px;
+}
+.header__exit{
+    background: none;
+    border: none;
+    margin-top: 30px;
+}
+
+
+.home{
+    padding-top: 150px;
+    display: flex;
+    justify-content:space-around;
+    
+}
+
+.home__item{
+   
+    -webkit-box-shadow: 0px 1px 29px 0px rgba(34, 60, 80, 0.93);
+    -moz-box-shadow: 0px 1px 29px 0px rgba(34, 60, 80, 0.93);
+    box-shadow: 0px 1px 29px 0px rgba(34, 60, 80, 0.93);
+    cursor: pointer;
+    max-width: 250px;
+}
+.home__img{
+    width: 250px;
+    height: 150px;
+    background-color: #333;
+}
+.home__content{
+    font-size: 20px;
+    line-height: 30px;
+    padding: 10px
+}
+.home__svg{
+    width: 10px;
+}
+
+.pagination{
+    padding-top: 100px;
+   
+}
+.pagination__Item-active{
+   color: green;
+}
+.cardContainer__imgCard{
+    width: 300px;
+    height: 300px;
+    background-color: #333;
+}
+
+.cardContainer{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+}
+.cardContainer__text{
+    font-size: 20px;
+    margin-top: 10px;
+    line-height: 27px;
+}
+.cardContainer__card{
+max-width: 300px;
+}
