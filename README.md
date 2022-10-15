@@ -26,7 +26,9 @@ components=>home=>insideCard=>insideCardContainer.tsx
 
 доработать дизайн :)
 
-![image](https://user-images.githubusercontent.com/97777490/193045675-0ac2342d-a1ac-4ae0-9bac-5e681ec0c8bc.png)
-![image](https://user-images.githubusercontent.com/97777490/193045734-03b7bedd-da14-4cbe-a358-d601fad23d9c.png)
-![image](https://user-images.githubusercontent.com/97777490/193045802-9a7b7b45-c163-4235-bc64-a08d8f8635a5.png)
-![image](https://user-images.githubusercontent.com/97777490/193045862-c4e7f867-252a-410e-af63-f11fd6cb114a.png)
+![image](https://user-images.githubusercontent.com/97777490/195967589-05c4056d-71b1-404c-b639-4ceb77c83f14.png)
+![image](https://user-images.githubusercontent.com/97777490/195967608-c43f96b3-d87a-4a35-99c3-4ea4a08031c9.png)
+![image](https://user-images.githubusercontent.com/97777490/195968021-ad964290-ff02-4810-9290-bac8143721ed.png)
+![image](https://user-images.githubusercontent.com/97777490/195968029-01c35546-7691-472d-bbf1-efcbed3eca05.png)
+![image](https://user-images.githubusercontent.com/97777490/195968040-ca524fc1-32f2-41de-ba1a-cc701466b653.png)
+
