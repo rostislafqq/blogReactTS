@@ -16,3 +16,19 @@ components=>home=>insideCard=>insideCardContainer.tsx
 в useEffect запрос на сервер , он вернет полную информацию о текущей карточки (благородя зависимости о выбранной "cardData") .
 
 функция giveStateInfo имитирует поведение схожей функции из homeContaner , но прибавляет к значению пагинации 1
+
+план:
+
+
+добавить возможность регистрации/авторизации пользователя .
+
+оставлять самому посты .
+
+доработать дизайн :)
+
+![image](https://user-images.githubusercontent.com/97777490/195967589-05c4056d-71b1-404c-b639-4ceb77c83f14.png)
+![image](https://user-images.githubusercontent.com/97777490/195967608-c43f96b3-d87a-4a35-99c3-4ea4a08031c9.png)
+![image](https://user-images.githubusercontent.com/97777490/195968021-ad964290-ff02-4810-9290-bac8143721ed.png)
+![image](https://user-images.githubusercontent.com/97777490/195968029-01c35546-7691-472d-bbf1-efcbed3eca05.png)
+![image](https://user-images.githubusercontent.com/97777490/195968040-ca524fc1-32f2-41de-ba1a-cc701466b653.png)
+
